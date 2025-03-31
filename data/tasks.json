@@ -1,0 +1,194 @@
+[   {
+
+  "task_id": "T1",
+
+  "task_name": "Site Preparation",
+
+  "duration_days": 10,
+
+  "dependencies": [],
+
+  "responsible_team": "Civil Engineering",
+
+  "category": "Construction"
+
+},
+
+{
+
+  "task_id": "T2",
+
+  "task_name": "Excavation & Foundations",
+
+  "duration_days": 15,
+
+  "dependencies": ["T1"],
+
+  "responsible_team": "Construction Team",
+
+  "category": "Construction"
+
+},
+
+{
+
+  "task_id": "T3",
+
+  "task_name": "Utility Installation (Water)",
+
+  "duration_days": 15,
+
+  "dependencies": ["T2"],
+
+  "responsible_team": "Electrical & Plumbing Team",
+
+  "category": "Infrastructure"
+
+},
+
+{
+
+  "task_id": "T4",
+
+  "task_name": "Utility Installation(Electricity)",
+
+  "duration_days": 15,
+
+  "dependencies": ["T2"],
+
+  "responsible_team": "Electrical & Plumbing Team",
+
+  "category": "Infrastructure"
+
+},
+
+{
+
+  "task_id": "T5",
+
+  "task_name": "Pavement & Walkways Construction",
+
+  "duration_days": 15,
+
+  "dependencies": ["T1"],
+
+  "responsible_team": "Civil Engineering",
+
+  "category": "Construction"
+
+},
+
+{
+
+  "task_id": "T6",
+
+  "task_name": "Children's Play Area Setup",
+
+  "duration_days": 14,
+
+  "dependencies": ["T5"],
+
+  "responsible_team": "Recreation Team",
+
+  "category": "Amenities"
+
+},
+
+{
+
+  "task_id": "T7",
+
+  "task_name": "Lighting & Security System Installation",
+
+  "duration_days": 10,
+
+  "dependencies": ["T6"],
+
+  "responsible_team": "Electrical Team",
+
+  "category": "Infrastructure"
+
+},
+
+{
+
+  "task_id": "T8",
+
+  "task_name": "Public Restroom Construction",
+
+  "duration_days": 18,
+
+  "dependencies": ["T7"],
+
+  "responsible_team": "Civil & Plumbing Team",
+
+  "category": "Amenities"
+
+},
+
+{
+
+  "task_id": "T9",
+
+  "task_name": "Plantation & Gardening",
+
+  "duration_days": 25,
+
+  "dependencies": ["T8"],
+
+  "responsible_team": "Horticulture Team",
+
+  "category": "Green Development"
+
+},
+
+{
+
+  "task_id": "T10",
+
+  "task_name": "Benches & Seating Installation",
+
+  "duration_days": 10,
+
+  "dependencies": ["T9"],
+
+  "responsible_team": "Furniture Installation Team",
+
+  "category": "Amenities"
+
+},
+
+{
+
+  "task_id": "T11",
+
+  "task_name": "Final Inspection & Safety Check",
+
+  "duration_days": 7,
+
+  "dependencies": ["T6", "T7", "T8", "T9", "T10"],
+
+  "responsible_team": "Project Management Team",
+
+  "category": "Quality Control"
+
+},
+
+{
+
+  "task_id": "T12",
+
+  "task_name": "Public Opening & Handover",
+
+  "duration_days": 5,
+
+  "dependencies": ["T11"],
+
+  "responsible_team": "Government & Stakeholders",
+
+  "category": "Project Completion"
+
+}
+
+
+]

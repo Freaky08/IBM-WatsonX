@@ -1,0 +1,102 @@
+ [
+      {
+        "risk_id": "RISK1",
+        "risk_name": "Weather Delays",
+        "category": "Environmental",
+        "probability": "High",
+        "impact": "High",
+        "potential_effect": "Construction delays due to heavy rains or storms",
+        "mitigation_strategy": "Use weather forecasting to adjust the schedule, have contingency buffer time, and cover materials properly.",
+        "monitoring_plan": "Daily weather tracking, emergency response readiness"
+      },
+      {
+        "risk_id": "RISK2",
+        "risk_name": "Material Delivery Delays",
+        "category": "Supply Chain",
+        "probability": "Medium",
+        "impact": "High",
+        "potential_effect": "Project delays due to late arrival of critical materials like concrete, benches, and playground equipment.",
+        "mitigation_strategy": "Order materials in advance, have multiple suppliers, and maintain buffer stock.",
+        "monitoring_plan": "Weekly supplier check-ins, real-time tracking"
+      },
+      {
+        "risk_id": "RISK3",
+        "risk_name": "Labor Shortage",
+        "category": "Human Resources",
+        "probability": "Medium",
+        "impact": "Medium",
+        "potential_effect": "Delays in site work due to worker unavailability or strikes.",
+        "mitigation_strategy": "Cross-train workers, have backup labor sources, and provide incentives for workforce retention.",
+        "monitoring_plan": "Daily workforce attendance tracking, contingency hiring"
+      },
+      {
+        "risk_id": "RISK4",
+        "risk_name": "Equipment Breakdown",
+        "category": "Operational",
+        "probability": "Medium",
+        "impact": "High",
+        "potential_effect": "Excavation, pavement, or foundation work delays due to machinery failure.",
+        "mitigation_strategy": "Regular maintenance, keep backup equipment on standby.",
+        "monitoring_plan": "Weekly equipment inspections, emergency rental agreements"
+      },
+      {
+        "risk_id": "RISK5",
+        "risk_name": "Budget Overruns",
+        "category": "Financial",
+        "probability": "Medium",
+        "impact": "High",
+        "potential_effect": "Cost overruns leading to funding shortages and scope reduction.",
+        "mitigation_strategy": "Maintain financial buffer, use AI-based cost tracking and forecasting.",
+        "monitoring_plan": "Monthly budget review, automated cost tracking"
+      },
+      {
+        "risk_id": "RISK6",
+        "risk_name": "Regulatory Compliance Issues",
+        "category": "Legal & Compliance",
+        "probability": "Low",
+        "impact": "High",
+        "potential_effect": "Project delays or stoppages due to missing permits or legal violations.",
+        "mitigation_strategy": "Ensure early compliance checks, consult with legal teams.",
+        "monitoring_plan": "Legal compliance audits, government liaison meetings"
+      },
+      {
+        "risk_id": "RISK7",
+        "risk_name": "Community Resistance",
+        "category": "Stakeholder Management",
+        "probability": "Low",
+        "impact": "Medium",
+        "potential_effect": "Delays or modifications due to public objections or protests.",
+        "mitigation_strategy": "Conduct community engagement programs, get public buy-in through consultations.",
+        "monitoring_plan": "Public sentiment tracking, stakeholder feedback sessions"
+      },
+      {
+        "risk_id": "RISK8",
+        "risk_name": "Security Threats",
+        "category": "Safety & Security",
+        "probability": "Low",
+        "impact": "Medium",
+        "potential_effect": "Vandalism, theft, or safety hazards affecting project assets.",
+        "mitigation_strategy": "Install temporary fencing, hire security personnel.",
+        "monitoring_plan": "24/7 surveillance, incident response plans"
+      },
+      {
+        "risk_id": "RISK9",
+        "risk_name": "Design Changes & Scope Creep",
+        "category": "Project Management",
+        "probability": "Medium",
+        "impact": "High",
+        "potential_effect": "Budget overruns and timeline extensions due to unplanned design modifications.",
+        "mitigation_strategy": "Strict change management process, limit mid-project modifications.",
+        "monitoring_plan": "Weekly project scope review, approval-based design changes"
+      },
+      {
+        "risk_id": "RISK10",
+        "risk_name": "Health & Safety Incidents",
+        "category": "Safety & Security",
+        "probability": "Low",
+        "impact": "High",
+        "potential_effect": "Worksite injuries causing stoppages and legal issues.",
+        "mitigation_strategy": "Strict safety protocols, personal protective equipment (PPE), regular training.",
+        "monitoring_plan": "Daily safety inspections, accident response drills"
+      }
+    ]

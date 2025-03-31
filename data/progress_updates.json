@@ -1,0 +1,64 @@
+ [
+      {
+        "task_id": "T1",
+        "task_name": "Site Preparation & Clearing",
+        "planned_start_date": "2025-07-01",
+        "planned_end_date": "2025-07-15",
+        "actual_start_date": "2025-07-01",
+        "actual_end_date": "2025-07-14",
+        "progress_percentage": 100,
+        "status": "Completed",
+        "forecasted_completion": "On Time",
+        "issues": ""
+      },
+      {
+        "task_id": "T2",
+        "task_name": "Excavation & Land Grading",
+        "planned_start_date": "2025-07-16",
+        "planned_end_date": "2025-08-10",
+        "actual_start_date": "2025-07-16",
+        "actual_end_date": "2025-08-12",
+        "progress_percentage": 95,
+        "status": "Delayed",
+        "forecasted_completion": "Delayed by 2 Days",
+        "issues": ""
+      },
+      {
+        "task_id": "T3",
+        "task_name": "Underground Utility Installation",
+        "planned_start_date": "2025-08-01",
+        "planned_end_date": "2025-09-15",
+        "actual_start_date": "2025-08-05",
+        "actual_end_date": "",
+        "progress_percentage": 40,
+        "status": "In Progress",
+        "forecasted_completion": "Expected to be delayed by 7 days",
+        "issues": ""
+      },
+      {
+        "task_id": "T4",
+        "task_name": "Pathways & Pavement Construction",
+        "planned_start_date": "2025-08-15",
+        "planned_end_date": "2025-09-30",
+        "actual_start_date": "2025-08-17",
+        "actual_end_date": "",
+        "progress_percentage": 55,
+        "status": "In Progress",
+        "forecasted_completion": "Possible 5-day delay",
+        "issues": ""
+      },
+      {
+        "task_id": "T5",
+        "task_name": "Foundation for Amenities",
+        "planned_start_date": "2025-09-01",
+        "planned_end_date": "2025-10-10",
+        "actual_start_date": "",
+        "actual_end_date": "",
+        "progress_percentage": 0,
+        "status": "Not Started",
+        "forecasted_completion": "Expected 7-10 day delay",
+        "issues": ""
+      }
+    ]
+
+  

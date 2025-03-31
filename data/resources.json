@@ -1,0 +1,33 @@
+ [
+
+    {"resource_id": "R1", "resource_name": "Civil Engineers", "type": "Human", "team_size": 1, "availability": {"start": "2025-07-01", "end": "2025-12-31"}, "cost_per_day_per_person": 300, "allocated_tasks": ["T1", "T2", "T5", "T8"]},
+
+    {"resource_id": "R2", "resource_name": "Construction Workers", "type": "Human", "team_size": 1, "availability": {"start": "2025-07-01", "end": "2025-12-31"}, "cost_per_day_per_person": 150, "allocated_tasks": ["T1", "T2", "T5", "T8","T6"]},
+
+    {"resource_id": "R3", "resource_name": "Horticulture Experts", "type": "Human", "team_size": 1, "availability": {"start": "2025-08-15", "end": "2025-12-15"}, "cost_per_day_per_person": 200, "allocated_tasks": ["T9"]},
+
+    {"resource_id": "R4", "resource_name": "Excavator", "type": "Equipment", "team_size": 1, "availability": {"start": "2025-07-01", "end": "2025-08-15"}, "cost_per_day_per_person": 500, "allocated_tasks": ["T2"]},
+
+    {"resource_id": "R5", "resource_name": "Dump Trucks", "type": "Equipment", "team_size": 1, "availability": {"start": "2025-07-05", "end": "2025-08-10"}, "cost_per_day_per_person": 400, "allocated_tasks": ["T1", "T2"]},
+
+    {"resource_id": "R6", "resource_name": "Concrete Mixers", "type": "Equipment", "team_size": 1, "availability": {"start": "2025-07-10", "end": "2025-09-01"}, "cost_per_day_per_person": 350, "allocated_tasks": ["T2", "T5", "T8"]},
+
+    {"resource_id": "R7", "resource_name": "Electrical Engineers", "type": "Human", "team_size": 1, "availability": {"start": "2025-08-01", "end": "2025-11-30"}, "cost_per_day_per_person": 320, "allocated_tasks": ["T3","T4"]},
+
+    {"resource_id": "R8", "resource_name": "Plumbing Team", "type": "Human", "team_size": 1, "availability": {"start": "2025-08-01", "end": "2025-11-30"}, "cost_per_day_per_person": 320, "allocated_tasks": ["T3","T4"]},
+
+    {"resource_id": "R9", "resource_name": "Playground Equipment", "type": "Material", "team_size": 1, "availability": {"delivery_date": "2025-09-10"}, "cost_per_day_per_person": 0, "allocated_tasks": ["T6"]},
+
+    {"resource_id": "R10", "resource_name": "LED Park Lights", "type": "Material", "team_size": 1, "availability": {"delivery_date": "2025-09-15"}, "cost_per_day_per_person": 200, "allocated_tasks": ["T7"]},
+
+    {"resource_id": "R11", "resource_name": "Benches & Seating", "type": "Material", "team_size": 1, "availability": {"delivery_date": "2025-10-01"}, "cost_per_day_per_person": 150, "allocated_tasks": ["T10"]},
+
+    {"resource_id": "R12", "resource_name": "Security Cameras", "type": "Material", "team_size": 1, "availability": {"delivery_date": "2025-10-10"}, "cost_per_day_per_person": 500, "allocated_tasks": ["T7"]},
+
+    {"resource_id": "R13", "resource_name": "Project Management Team", "type": "Human", "team_size": 1, "availability": {"start": "2025-07-01", "end": "2025-12-31"}, "cost_per_day_per_person": 400, "allocated_tasks": ["T11", "T12"]},
+
+    {"resource_id": "R14", "resource_name": "Safety Check", "type": "Human", "team_size": 1, "availability": {"start": "2025-07-01", "end": "2025-12-31"}, "cost_per_day_per_person": 400, "allocated_tasks": ["T6","T7"]}
+
+  ]
+
+ 
